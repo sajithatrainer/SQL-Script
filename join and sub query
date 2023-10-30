@@ -1,0 +1,25 @@
+Joins ans Subquery
+
+Write a query to find the employee(s) with the highest salary in each department. Display the department_id, department_name, employee_id, first_name, and salary.
+
+Write a query to calculate the total salary for employees in each region. Display the region_id, region_name, and the total salary.
+
+Write a query to retrieve the department names along with the average salary of employees in each department.
+
+Write a query to find the top 3 regions with the highest number of countries. Display the region_id, region_name, and the number of countries.
+
+Find all employees who work in the region with region_name = 'Europe':
+
+Find the average salary of employees in the department with department_name = 'Sales':
+
+Find the department name, manager name, and their hire date for all departments:
+
+Find the department name and the number of employees in each department:
+
+Find all employees who are not managers (do not have employees reporting to them):
+
+Find all employees and their respective managers (if they have one), display their first_name and last_name.
+
+Find the names of employees along with their job titles:
+
+Find the names of employees who have the highest salary in their respective department:
