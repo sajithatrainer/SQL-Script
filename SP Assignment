@@ -40,4 +40,6 @@ Find the department name, manager name, and their hire date for all departments:
 
 Find the department name and the number of employees in each department:
 
-Find all employees who are not managers (do not have employees reporting to them)
+Find all employees who are not managers (do not have employees reporting to them) .
+From the current date  , retrieve the day, month, year, hour, minute and second and display.
+Find all the employees hired in February and December
