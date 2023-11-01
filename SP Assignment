@@ -5,3 +5,39 @@
 
 4.	Create a stored procedure named GetDependentCountByEmployee that takes an employee ID as input and returns the count of dependents for that employee.
 5.	Create a stored procedure named GetTotalSalariesByDepartment that calculates and returns the total salaries of all employees in each department.
+
+Functions:
+Count the number of employees in a specific job title:
+Get the department with the highest number of employees:
+Calculate the total salary expense for a department:
+
+Joins & Sub Query 
+Get full details of all employees whose department is located in Dallas.
+
+Write a query to calculate the difference between the maximum and minimum salary in the employees table.
+
+Find the average salary of employees hired in the last 6 months of the year 1997, 
+
+Write a query to retrieve the country names along with the first three characters of each country name in uppercase.
+
+Write a query to find the department names that have the word "Sales" in them (case-insensitive).
+
+Write a query to retrieve the email addresses of employees, truncating the domain part and displaying only the username (characters before the "@").
+
+Write a query to retrieve all employees who were hired on or after January 1, 1998.
+
+Write a query to find the number of employees hired in each year, and display the year along with the count.
+
+Write a query to calculate the total number of days each employee has been working in the company. Consider the current date as the reference date.
+
+Write a query to retrieve the hire date and the day of the week (e.g., Monday, Tuesday, etc.) on which each employee was hired.
+
+Write a query to find the employees who have been with the company for more than 5 years. Display their employee_id, first_name, last_name, and hire_date.
+
+Write a query to find the average years experience of employees in the company. Assume the current date as the reference date, and consider the hire date of each employee to calculate their  years experience.
+
+Find the department name, manager name, and their hire date for all departments:
+
+Find the department name and the number of employees in each department:
+
+Find all employees who are not managers (do not have employees reporting to them)
