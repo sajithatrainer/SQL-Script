@@ -1,0 +1,2 @@
+6.	Create a stored procedure named GetEmployeeDetailsWithManager that takes an employee ID as input and returns all the details of that employee along with their manager's name.
+7.	Create a stored procedure named GetLocationWithMostEmployees that identifies the location (city) with the most employees and returns the location name and the number of employees.
