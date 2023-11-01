@@ -1,0 +1,7 @@
+1.	Create a stored Procedure to  insert a  new record in the region table .
+2.	Create a stored Procedure that takes the employee id as input parameter and displays the employee name, along with the email or phone(which ever is available) as ‘contact Details’   .If no contact information is available display ‘Not Available’ . 
+
+3.	Create a stored procedure named GetEmployeesInDepartment that takes a department name as input and returns the list of employees in that department, with the following information : first name, last name ,department name , job titles and salaries.
+
+4.	Create a stored procedure named GetDependentCountByEmployee that takes an employee ID as input and returns the count of dependents for that employee.
+5.	Create a stored procedure named GetTotalSalariesByDepartment that calculates and returns the total salaries of all employees in each department.
